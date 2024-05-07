@@ -2,7 +2,7 @@
 <img src="https://media.licdn.com/dms/image/D4E16AQGJiv02e6BowA/profile-displaybackgroundimage-shrink_350_1400/0/1715104516708?e=1720656000&v=beta&t=allnVDfCmgc8XZoC9mcXfN_ecNDVs1w7QPzyjKhHB5I" alt= "Software Developer STEEVEN GUALAN">
 
 <div aligne= "center"> 
-<h1 align="center">Software Developer STEEVEN GUALAN!👋</h1>
+<h1 align="center">Hola!👋 Soy Steeven Gualan!</h1>
 </div>
 
 
