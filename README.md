@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div aligne= "center"> 
-<h1> Hola! Soy STEEVEN GUALAN! </h1>
+<h1 align="center"> Hola! Soy STEEVEN GUALAN! </h1>
 </div>
 
 <!--
