@@ -12,14 +12,14 @@
         <li>👨‍💻Graduado en Ingeniería en Software</li>
         <li>📙Titulado en Ingles B1</li>
         <li>⭐️Certificado en <span>"Fundamentos de la Gestión de Proyectos"</span></li>
-        <li>🛠️Conocimientos en Frontend y Backend,aunque me gusta mas Bases de Datos</li>
+        <li>🛠️Conocimientos en Frontend y Backend, aunque me gusta mas Bases de Datos</li>
     </ul> 
 </div>
 
 ## 📱Competencias Técnicas:
 
-<h4>Frontend:</h4>
-<img src"https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/html-512.png" alt="html" width="40" height=40">
+<h4>⭐️Frontend:</h4>
+<img src="https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/html-512.png" alt="html" width="40" height=40">
 
 
 <!--
