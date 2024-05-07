@@ -1,20 +1,15 @@
 <div style="text-align: center;">
-
     <img src="https://media.licdn.com/dms/image/D4E16AQGJiv02e6BowA/profile-displaybackgroundimage-shrink_350_1400/0/1715104516708?e=1720656000&v=beta&t=allnVDfCmgc8XZoC9mcXfN_ecNDVs1w7QPzyjKhHB5I"
         alt="Software Developer STEEVEN GUALAN">
-
     <h1>Hola!👋 Soy Steeven Gualan!</h1>
-
-    <div style="width: 400px; margin: auto ;">
+    
+</div>
+## Sobre Mi:
+<div style="width: 800px;">
         <h3>Ingeniero en Software Junior con experiencia en diferentes lenguajes de programación y
             conocimiento en fundamentos en Gestión de Proyectos. Capacidad para trabajo en equipo,
             aprendizaje continuo, comunicación técnica y adaptabilidad a cualquier proyecto de Software.</h3>
-    </div>
-
-
-</div>
-
-
+        </div>
 
 <!--
 
