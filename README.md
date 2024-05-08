@@ -43,7 +43,10 @@
 ## 📱Contáctame:
 
 [![Linkedin](https://img.shields.io/badge/-Steeven%20Gualan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/steevendeveloper/)](https://www.linkedin.com/in/steevendeveloper/)
-[![Gmail](https://img.shields.io/badge/-steevengualan@gmail.com-DarkOrange)]
+
+![](https://img.shields.io/badge/-steevengualan%40gmail.com-DarkOrange%3F?style=flat&logo=Gmail&labelColor=gray&color=DarkOrange&link=gmail.com)
+
+
 
 <!--
 
