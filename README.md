@@ -23,7 +23,7 @@
 <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/html-512.png" alt="html" width="40" height=40">
 <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-256.png" alt="css" width="40" height=40">
 <img src="https://static-00.iconduck.com/assets.00/javascript-js-icon-2048x2048-nyxvtvk0.png" alt="javascript" width="40" height=40">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="40" height=40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="50" height=40">
 <img src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-1024x1024-vh3pfez8.png" alt="typescript" width="40" height=40">
 <img src="https://cdn3.iconfinder.com/data/icons/logos-3/250/angular-512.png" alt="angular" width="40" height=40">
 </p>
@@ -36,7 +36,7 @@
 <h4>🔥Bases de Datos:</h4>
 <p>
 <img src="https://static-00.iconduck.com/assets.00/postgresql-icon-1987x2048-v2fkmdaw.png" alt="postgres" width="40" height=40">
-<img src="https://static-00.iconduck.com/assets.00/mysql-original-wordmark-icon-2048x1064-jfbaqrzh.png" alt="mysql" width="40" height=40">
+<img src="https://static-00.iconduck.com/assets.00/mysql-original-wordmark-icon-2048x1064-jfbaqrzh.png" alt="mysql" width="60" height=40">
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_logo_icon_146424.png" alt="mongodb" width="40" height=40">
 </p>
 
