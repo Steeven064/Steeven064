@@ -42,10 +42,7 @@
 
 ## 📱Contáctame:
 
-[![Linkedin](https://img.shields.io/badge/-Steeven%20Gualan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/steevendeveloper/)](https://www.linkedin.com/in/steevendeveloper/)
-
-[![](https://img.shields.io/badge/-steevengualan%40gmail.com-DarkOrange%3F?style=flat&logo=Gmail&labelColor=gray&color=DarkOrange)](mailto:steevengualan@gmail.com)
-
+[![Linkedin](https://img.shields.io/badge/-Steeven%20Gualan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/steevendeveloper/)](https://www.linkedin.com/in/steevendeveloper/) [![](https://img.shields.io/badge/-steevengualan%40gmail.com-DarkOrange%3F?style=flat&logo=Gmail&labelColor=gray&color=DarkOrange)](mailto:steevengualan@gmail.com) ![Static Badge](https://img.shields.io/badge/portfolio-Comming_Soon!-black?labelColor=blue)
 
 
 
