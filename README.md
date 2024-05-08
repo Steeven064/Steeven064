@@ -20,6 +20,13 @@
 
 <h4>⭐️Frontend:</h4>
 <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/html-512.png" alt="html" width="40" height=40">
+<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-256.png" alt="html" width="40" height=40">
+<img src="https://static-00.iconduck.com/assets.00/javascript-js-icon-2048x2048-nyxvtvk0.png" alt="html" width="40" height=40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="html" width="40" height=40">
+<img src="https://static-00.iconduck.com/assets.00/typescript-icon-icon-1024x1024-vh3pfez8.png" alt="html" width="40" height=40">
+<img src="https://cdn3.iconfinder.com/data/icons/logos-3/250/angular-512.png" alt="html" width="40" height=40">
+
+
 
 
 <!--
