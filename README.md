@@ -43,9 +43,9 @@
 ## 📱Contáctame:
 
 [![Linkedin](https://img.shields.io/badge/-Steeven%20Gualan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/steevendeveloper/)](https://www.linkedin.com/in/steevendeveloper/)
+[![Gmail](https://img.shields.io/badge/-steevengualan@gmail.com-DarkOrange)]
 
 <!--
-[![Linkedin](https://img.shields.io/badge/-Steeven%20Gualan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/steevendeveloper/)](https://www.linkedin.com/in/steevendeveloper/)
 
 Here are some ideas to get you started:
 
