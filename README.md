@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-    <img src="https://media.licdn.com/dms/image/D4E16AQGJiv02e6BowA/profile-displaybackgroundimage-shrink_350_1400/0/1715104516708?e=1720656000&v=beta&t=allnVDfCmgc8XZoC9mcXfN_ecNDVs1w7QPzyjKhHB5I"
+    <img src="[https://media.licdn.com/dms/image/D4E16AQGJiv02e6BowA/profile-displaybackgroundimage-shrink_350_1400/0/1715104516708?e=1720656000&v=beta&t=allnVDfCmgc8XZoC9mcXfN_ecNDVs1w7QPzyjKhHB5I](https://w0.peakpx.com/wallpaper/136/536/HD-wallpaper-black-and-blue-abstract-minimal.jpg)"
         alt="Software Developer STEEVEN GUALAN">
     <h1>Hola!👋 Soy Steeven Gualan!</h1>
     <h4>Full Stack and Software Developer💻</h4>
