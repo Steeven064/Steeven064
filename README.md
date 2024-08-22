@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-    <img src="https://w0.peakpx.com/wallpaper/136/536/HD-wallpaper-black-and-blue-abstract-minimal.jpg"
+    <img style="object-fit: cover; width: 100%; height: 100px;" src="https://w0.peakpx.com/wallpaper/136/536/HD-wallpaper-black-and-blue-abstract-minimal.jpg"
         alt="Software Developer STEEVEN GUALAN">
     <h1>Hola!👋 Soy Steeven Gualan!</h1>
     <h4>Full Stack and Software Developer💻</h4>
